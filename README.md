@@ -50,6 +50,9 @@ Run the app and try things out:
 
 As you explore, write down at least five things that feel confusing, inconsistent, or strange. These might be bugs, quirks, or unexpected design decisions.
 
+5 inconsistent things:
+1. genres not in ["rock", "punk", "party"] & energy 4-6 incusive are classified as hype
+
 ### 2. Ask AI for help understanding the code  
 
 Pick one issue from your list. Use an AI coding assistant to:
